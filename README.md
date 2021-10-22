@@ -1,2 +1,2 @@
 # sudokuSolver
-sudoku.py solves sudoku in every possible combination using recursion
+sudoku.py solves sudoku in every possible combination using recursion and prolog
